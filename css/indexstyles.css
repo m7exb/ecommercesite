@@ -6,18 +6,11 @@ footer {
     padding-left: 4rem;
   }
 
-    .img{
-float: left;
+  img {
+    border-radius: 4%;
+  }
 
 
-    }
-
-
-  .text { 
-text-align: right !important;
-  
-
-
-
-
+  body {
+    background-color: lightblue;
   }
